@@ -32,4 +32,12 @@ echo フォルダ情報(隠しファイル名だけ)
 dir /b /ah
 echo;
 
+echo フォルダ情報(全て、サブフォルダを含む)
+dir /a /s
+echo;
+
+echo フォルダ情報(ファイル名だけ、サブフォルダを含む)
+dir /b /a /s
+echo;
+
 exit /b
