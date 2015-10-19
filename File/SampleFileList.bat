@@ -40,4 +40,6 @@ echo フォルダ情報(ファイル名だけ、サブフォルダを含む)
 dir /b /a /s
 echo;
 
+pause
+
 exit /b

@@ -22,4 +22,6 @@ for %%i in (%FILENAME%) do (
 )
 echo;
 
+pause
+
 exit /b
