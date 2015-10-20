@@ -23,4 +23,6 @@ echo [,][;][=]‚ğŠÜ‚Ş•¶š—ñ‚ÍA""‚ÅˆÍ‚Ş
 call %~dp0\Argument.bat "A,B" C
 echo;
 
+pause
+
 exit /b
